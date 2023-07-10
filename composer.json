@@ -1,0 +1,11 @@
+{
+
+    "required":{
+
+        
+    },
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpword": "^1.1"
+    }
+}
